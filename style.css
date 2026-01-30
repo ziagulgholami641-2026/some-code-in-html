@@ -1,0 +1,26 @@
+div{
+    background-color: rgb(173, 169, 169);
+    color: white;
+    margin: 0 auto;
+}
+h1,p{
+    border-style: groove inset ridge outset;
+    border-color: rgb(12, 90, 93);
+    border-width: 10px;
+}
+button{
+    padding: 12px;
+    border-radius: 12px;
+ background-color: rgb(12, 90, 93);
+color: white;
+}
+h2{
+   
+    border-style: hidden;
+    padding: 12px 13px 14px 15px;
+}
+h2:hover{
+border-style: dashed;
+ border-color: rgb(12, 90, 93);
+}
+
